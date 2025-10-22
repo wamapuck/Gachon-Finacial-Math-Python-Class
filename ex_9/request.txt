@@ -1,0 +1,2 @@
+request status code "remind"
+ex) 200, 404, etc.
