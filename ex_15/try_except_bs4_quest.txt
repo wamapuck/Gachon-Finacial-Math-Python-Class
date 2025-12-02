@@ -1,0 +1,314 @@
+<div class="box_type_m" style="margin-top:0">
+<!-- 080811 -->
+<h4 class="top_tlt">
+<em>종목분석</em> 리포트 <span class="tlt_more"><a href="/research/company_list.naver" onclick="clickcr(this, 'mid.4', '', '', event);">더보기</a></span>
+</h4>
+<!-- //080811 -->
+<table cellpadding="0" cellspacing="0" class="type_3" summary="종목분석 리포트 리스트">
+<caption>종목분석 리포트</caption>
+<!-- 080710 수정 -->
+<col width="18%"/>
+<col width="*"/>
+<col width="17%"/>
+<col width="6%"/>
+<col width="8%"/>
+<!-- //080710 수정 -->
+<tr>
+<th>기업</th>
+<th>제목</th>
+<th class="tl">증권사</th>
+<th>첨부</th>
+<th>작성일</th>
+</tr>
+<tr>
+<td class="blank_08" colspan="5"></td>
+</tr>
+<tr>
+<td><a class="tltle" href="/item/main.naver?code=010140" onclick="clickcr(this, 'mid.32', '010140', '1', event);" title="삼성중공업">삼성중공업</a> </td>
+<td><a href="company_read.naver?nid=88542" onclick="clickcr(this, 'mid.3', '88542', '1', event);">고민할 필요 없는 안정감</a></td>
+<td>iM증권</td>
+<td class="tc"><a href="https://stock.pstatic.net/stock-research/company/61/20251202_company_900329000.pdf" target="_blank"><img align="absmiddle" alt="pdf" src="https://ssl.pstatic.net/imgstock/images5/down.gif"/></a></td>
+<td class="date">
+								25.12.02</td>
+</tr>
+<tr>
+<td><a class="tltle" href="/item/main.naver?code=032350" onclick="clickcr(this, 'mid.32', '032350', '2', event);" title="롯데관광개발">롯데관광개..</a> </td>
+<td><a href="company_read.naver?nid=88541" onclick="clickcr(this, 'mid.3', '88541', '2', event);">도파민에는 비수기가 없다</a></td>
+<td>한화투자증권</td>
+<td class="tc"><a href="https://stock.pstatic.net/stock-research/company/16/20251202_company_611803000.pdf" target="_blank"><img align="absmiddle" alt="pdf" src="https://ssl.pstatic.net/imgstock/images5/down.gif"/></a></td>
+<td class="date">
+								25.12.02</td>
+</tr>
+<tr>
+<td><a class="tltle" href="/item/main.naver?code=032350" onclick="clickcr(this, 'mid.32', '032350', '3', event);" title="롯데관광개발">롯데관광개..</a> </td>
+<td><a href="company_read.naver?nid=88540" onclick="clickcr(this, 'mid.3', '88540', '3', event);">비수기가 뭐죠?</a></td>
+<td>DS투자증권</td>
+<td class="tc"><a href="https://stock.pstatic.net/stock-research/company/66/20251202_company_598027000.pdf" target="_blank"><img align="absmiddle" alt="pdf" src="https://ssl.pstatic.net/imgstock/images5/down.gif"/></a></td>
+<td class="date">
+								25.12.02</td>
+</tr>
+<tr>
+<td><a class="tltle" href="/item/main.naver?code=102710" onclick="clickcr(this, 'mid.32', '102710', '4', event);" title="이엔에프테크놀로지">이엔에프테..</a> </td>
+<td><a href="company_read.naver?nid=88539" onclick="clickcr(this, 'mid.3', '88539', '4', event);">아무리 생각해도 참기 어려운 밸류</a></td>
+<td>DS투자증권</td>
+<td class="tc"><a href="https://stock.pstatic.net/stock-research/company/66/20251202_company_410677000.pdf" target="_blank"><img align="absmiddle" alt="pdf" src="https://ssl.pstatic.net/imgstock/images5/down.gif"/></a></td>
+<td class="date">
+								25.12.02</td>
+</tr>
+<tr>
+<td><a class="tltle" href="/item/main.naver?code=073240" onclick="clickcr(this, 'mid.32', '073240', '5', event);" title="금호타이어">금호타이어</a> </td>
+<td><a href="company_read.naver?nid=88538" onclick="clickcr(this, 'mid.3', '88538', '5', event);">유럽 공장 신설로 저변 확대 본격화</a></td>
+<td>DS투자증권</td>
+<td class="tc"><a href="https://stock.pstatic.net/stock-research/company/66/20251202_company_722184000.pdf" target="_blank"><img align="absmiddle" alt="pdf" src="https://ssl.pstatic.net/imgstock/images5/down.gif"/></a></td>
+<td class="date">
+								25.12.02</td>
+</tr>
+<tr>
+<td><a class="tltle" href="/item/main.naver?code=290650" onclick="clickcr(this, 'mid.32', '290650', '6', event);" title="엘앤씨바이오">엘앤씨바이..</a> </td>
+<td><a href="company_read.naver?nid=88537" onclick="clickcr(this, 'mid.3', '88537', '6', event);">터닝포인트 이후, 성장 국면 초입</a></td>
+<td>한국IR협의회</td>
+<td class="tc"><a href="https://stock.pstatic.net/stock-research/company/74/20251202_company_560917000.pdf" target="_blank"><img align="absmiddle" alt="pdf" src="https://ssl.pstatic.net/imgstock/images5/down.gif"/></a></td>
+<td class="date">
+								25.12.02</td>
+</tr>
+<tr>
+<td class="blank_05" colspan="5"></td>
+</tr>
+<tr>
+<td class="division_line" colspan="5"></td>
+</tr>
+</table>
+</div>
+====================================================================================================
+<div class="box_type_m">
+<!-- 080811 -->
+<h4 class="top_tlt">
+<em>산업분석</em> 리포트 <span class="tlt_more"><a href="/research/industry_list.naver" onclick="clickcr(this, 'mid.6', '', '', event);">더보기</a></span>
+</h4>
+<!-- //080811 -->
+<table cellpadding="0" cellspacing="0" class="type_3" summary="산업분석 리포트 리스트">
+<caption>산업분석 리포트</caption>
+<col width="18%"/>
+<col width="*"/>
+<col width="17%"/>
+<col width="6%"/>
+<col width="8%"/>
+<tr>
+<th>산업</th>
+<th>제목</th>
+<th class="tl">증권사</th>
+<th>첨부</th>
+<th>작성일</th>
+</tr>
+<tr>
+<td class="blank_08" colspan="5"></td>
+</tr>
+<tr>
+<td>자동차 
+							</td>
+<td><a href="industry_read.naver?nid=42616" onclick="clickcr(this, 'mid.5', '42616', '1', event);">10월 Auto Sales DataBook</a></td>
+<td>유진투자증권</td>
+<td class="tc"><a href="https://stock.pstatic.net/stock-research/industry/63/20251202_industry_944882000.pdf" target="_blank"><img align="absmiddle" alt="pdf" src="https://ssl.pstatic.net/imgstock/images5/down.gif"/></a></td>
+<td class="date">
+								25.12.02</td>
+</tr>
+<tr>
+<td>에너지 
+							</td>
+<td><a href="industry_read.naver?nid=42615" onclick="clickcr(this, 'mid.5', '42615', '2', event);">캐나다의 원유 수출 확대, OSP 대세 하락 요인</a></td>
+<td>하나증권</td>
+<td class="tc"><a href="https://stock.pstatic.net/stock-research/industry/57/20251202_industry_670846000.pdf" target="_blank"><img align="absmiddle" alt="pdf" src="https://ssl.pstatic.net/imgstock/images5/down.gif"/></a></td>
+<td class="date">
+								25.12.02</td>
+</tr>
+<tr>
+<td>자동차 
+							</td>
+<td><a href="industry_read.naver?nid=42614" onclick="clickcr(this, 'mid.5', '42614', '3', event);">글로벌 친환경차/2차전지 Monthly: 2025년 10월 EV +9..</a></td>
+<td>하나증권</td>
+<td class="tc"><a href="https://stock.pstatic.net/stock-research/industry/57/20251202_industry_603803000.pdf" target="_blank"><img align="absmiddle" alt="pdf" src="https://ssl.pstatic.net/imgstock/images5/down.gif"/></a></td>
+<td class="date">
+								25.12.02</td>
+</tr>
+<tr>
+<td>자동차 
+							</td>
+<td><a href="industry_read.naver?nid=42613" onclick="clickcr(this, 'mid.5', '42613', '4', event);">미국 내 HEV 신차 투입과 인도/유럽 내 판매 회복이 ..</a></td>
+<td>하나증권</td>
+<td class="tc"><a href="https://stock.pstatic.net/stock-research/industry/57/20251202_industry_856310000.pdf" target="_blank"><img align="absmiddle" alt="pdf" src="https://ssl.pstatic.net/imgstock/images5/down.gif"/></a></td>
+<td class="date">
+								25.12.02</td>
+</tr>
+<tr>
+<td>해운 
+							</td>
+<td><a href="industry_read.naver?nid=42612" onclick="clickcr(this, 'mid.5', '42612', '5', event);">벌크선 운임 연내 최고점 경신</a></td>
+<td>하나증권</td>
+<td class="tc"><a href="https://stock.pstatic.net/stock-research/industry/57/20251202_industry_291158000.pdf" target="_blank"><img align="absmiddle" alt="pdf" src="https://ssl.pstatic.net/imgstock/images5/down.gif"/></a></td>
+<td class="date">
+								25.12.02</td>
+</tr>
+<tr>
+<td>건설 
+							</td>
+<td><a href="industry_read.naver?nid=42611" onclick="clickcr(this, 'mid.5', '42611', '6', event);">지방 전세 가격 상승 중</a></td>
+<td>하나증권</td>
+<td class="tc"><a href="https://stock.pstatic.net/stock-research/industry/1/20251202_industry_453440000.pdf" target="_blank"><img align="absmiddle" alt="pdf" src="https://ssl.pstatic.net/imgstock/images5/down.gif"/></a></td>
+<td class="date">
+								25.12.02</td>
+</tr>
+<tr>
+<td class="blank_05" colspan="5"></td>
+</tr>
+<tr>
+<td class="division_line" colspan="5"></td>
+</tr>
+</table>
+</div>
+====================================================================================================
+<div class="box_type_m">
+<!-- 080811 -->
+<h4 class="top_tlt">
+<em>시황정보</em> 리포트 <span class="tlt_more"><a href="/research/market_info_list.naver" onclick="clickcr(this, 'mid.8', '', '', event);">더보기</a></span>
+</h4>
+<!-- //080811 -->
+<table cellpadding="0" cellspacing="0" class="type_3" summary="시황정보 리포트 리스트">
+<caption>시황정보 리포트</caption>
+<col width="*"/>
+<col width="17%"/>
+<col width="6%"/>
+<col width="8%"/>
+<tr>
+<th style="padding-left: 103px;">제목</th>
+<th class="tl">증권사</th>
+<th>첨부</th>
+<th>작성일</th>
+</tr>
+<tr>
+<td class="blank_08" colspan="5"></td>
+</tr>
+<tr>
+<td><a href="market_info_read.naver?nid=34247" onclick="clickcr(this, 'mid.7', '34247', '1', event);">마켓레이더(12월 2일, 오전)</a></td>
+<td>신한투자증권</td>
+<td class="tc"></td>
+<td class="date">
+								25.12.02</td>
+</tr>
+<tr>
+<td><a href="market_info_read.naver?nid=34246" onclick="clickcr(this, 'mid.7', '34246', '2', event);">[DS Defense Daily] 2025-12-02</a></td>
+<td>DS투자증권</td>
+<td class="tc"><a href="https://stock.pstatic.net/stock-research/market/66/20251202_market_180369000.pdf" target="_blank"><img align="absmiddle" alt="pdf" src="https://ssl.pstatic.net/imgstock/images5/down.gif"/></a></td>
+<td class="date">
+								25.12.02</td>
+</tr>
+<tr>
+<td><a href="market_info_read.naver?nid=34245" onclick="clickcr(this, 'mid.7', '34245', '3', event);">Yuanta Morning Snapshot (25.12.02)</a></td>
+<td>유안타증권</td>
+<td class="tc"><a href="https://stock.pstatic.net/stock-research/market/18/20251202_market_875234000.pdf" target="_blank"><img align="absmiddle" alt="pdf" src="https://ssl.pstatic.net/imgstock/images5/down.gif"/></a></td>
+<td class="date">
+								25.12.02</td>
+</tr>
+<tr>
+<td><a href="market_info_read.naver?nid=34244" onclick="clickcr(this, 'mid.7', '34244', '4', event);">[DS 시황 데일리] 현시점 2025-12-02</a></td>
+<td>DS투자증권</td>
+<td class="tc"><a href="https://stock.pstatic.net/stock-research/market/66/20251202_market_332797000.pdf" target="_blank"><img align="absmiddle" alt="pdf" src="https://ssl.pstatic.net/imgstock/images5/down.gif"/></a></td>
+<td class="date">
+								25.12.02</td>
+</tr>
+<tr>
+<td><a href="market_info_read.naver?nid=34243" onclick="clickcr(this, 'mid.7', '34243', '5', event);">Tech Weekly</a></td>
+<td>대신증권</td>
+<td class="tc"><a href="https://stock.pstatic.net/stock-research/market/2/20251202_market_459450000.pdf" target="_blank"><img align="absmiddle" alt="pdf" src="https://ssl.pstatic.net/imgstock/images5/down.gif"/></a></td>
+<td class="date">
+								25.12.02</td>
+</tr>
+<tr>
+<td><a href="market_info_read.naver?nid=34242" onclick="clickcr(this, 'mid.7', '34242', '6', event);">Daily Morning Brief(2025.12.02)</a></td>
+<td>다올투자증권</td>
+<td class="tc"><a href="https://stock.pstatic.net/stock-research/market/76/20251202_market_890062000.pdf" target="_blank"><img align="absmiddle" alt="pdf" src="https://ssl.pstatic.net/imgstock/images5/down.gif"/></a></td>
+<td class="date">
+								25.12.02</td>
+</tr>
+<tr>
+<td class="blank_05" colspan="5"></td>
+</tr>
+<tr>
+<td class="division_line" colspan="5"></td>
+</tr>
+</table>
+</div>
+====================================================================================================
+<div class="box_type_m">
+<!-- 080811 -->
+<h4 class="top_tlt">
+<em>투자정보</em> 리포트 <span class="tlt_more"><a href="/research/invest_list.naver" onclick="clickcr(this, 'mid.2', '', '', event);">더보기</a></span>
+</h4>
+<!-- //080811 -->
+<table cellpadding="0" cellspacing="0" class="type_3" summary="투자정보 리포트 리스트">
+<caption>투자정보 리포트</caption>
+<!-- 080710 수정 -->
+<col width="*"/>
+<col width="17%"/>
+<col width="6%"/>
+<col width="8%"/>
+<!-- //080710 수정 -->
+<tr>
+<th style="padding-left: 103px;">제목</th>
+<th class="tl">증권사</th>
+<th>첨부</th>
+<th>작성일</th>
+</tr>
+<tr>
+<td class="blank_08" colspan="5"></td>
+</tr>
+<tr>
+<td><a href="invest_read.naver?nid=37129" onclick="clickcr(this, 'mid.1', '37129', '1', event);">BESG 포트폴리오 성과 부진 지속</a></td>
+<td>교보증권</td>
+<td class="tc"><a href="https://stock.pstatic.net/stock-research/invest/57/20251202_invest_11542000.pdf" target="_blank"><img align="absmiddle" alt="pdf" src="https://ssl.pstatic.net/imgstock/images5/down.gif"/></a></td>
+<td class="date">
+								25.12.02</td>
+</tr>
+<tr>
+<td><a href="invest_read.naver?nid=37128" onclick="clickcr(this, 'mid.1', '37128', '2', event);">[New K-ETF] 카카오 그룹 포커스</a></td>
+<td>하나증권</td>
+<td class="tc"><a href="https://stock.pstatic.net/stock-research/invest/57/20251202_invest_225390000.pdf" target="_blank"><img align="absmiddle" alt="pdf" src="https://ssl.pstatic.net/imgstock/images5/down.gif"/></a></td>
+<td class="date">
+								25.12.02</td>
+</tr>
+<tr>
+<td><a href="invest_read.naver?nid=37127" onclick="clickcr(this, 'mid.1', '37127', '3', event);">[Global ETF] ETF 트렌드 &amp; 포트폴리오: 지수 방법론..</a></td>
+<td>하나증권</td>
+<td class="tc"><a href="https://stock.pstatic.net/stock-research/invest/57/20251202_invest_387825000.pdf" target="_blank"><img align="absmiddle" alt="pdf" src="https://ssl.pstatic.net/imgstock/images5/down.gif"/></a></td>
+<td class="date">
+								25.12.02</td>
+</tr>
+<tr>
+<td><a href="invest_read.naver?nid=37126" onclick="clickcr(this, 'mid.1', '37126', '4', event);">인도 2/4분기 GDP 8.2% 서프라이즈</a></td>
+<td>하나증권</td>
+<td class="tc"><a href="https://stock.pstatic.net/stock-research/invest/57/20251202_invest_984953000.pdf" target="_blank"><img align="absmiddle" alt="pdf" src="https://ssl.pstatic.net/imgstock/images5/down.gif"/></a></td>
+<td class="date">
+								25.12.02</td>
+</tr>
+<tr>
+<td><a href="invest_read.naver?nid=37125" onclick="clickcr(this, 'mid.1', '37125', '5', event);">국내 회사채 ETF로 저가매수 유입</a></td>
+<td>한화투자증권</td>
+<td class="tc"><a href="https://stock.pstatic.net/stock-research/invest/16/20251202_invest_997012000.pdf" target="_blank"><img align="absmiddle" alt="pdf" src="https://ssl.pstatic.net/imgstock/images5/down.gif"/></a></td>
+<td class="date">
+								25.12.02</td>
+</tr>
+<tr>
+<td><a href="invest_read.naver?nid=37124" onclick="clickcr(this, 'mid.1', '37124', '6', event);">[Quant Comment] '25년 코리아 디스카운트 해소 정책 ..</a></td>
+<td>유안타증권</td>
+<td class="tc"><a href="https://stock.pstatic.net/stock-research/invest/2/20251202_invest_713293000.pdf" target="_blank"><img align="absmiddle" alt="pdf" src="https://ssl.pstatic.net/imgstock/images5/down.gif"/></a></td>
+<td class="date">
+								25.12.02</td>
+</tr>
+<tr>
+<td class="blank_05" colspan="5"></td>
+</tr>
+<tr>
+<td class="division_line" colspan="5"></td>
+</tr>
+</table>
+</div>
+====================================================================================================
